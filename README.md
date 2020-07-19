@@ -5,7 +5,7 @@
 * The application also displays the count of people who are at exposure risk.
 
 ## How to run the Application 
-1. Clone the repository
+1. Clone the repository `git clone https://github.com/HarshiniVenkat/Covid19-SafetyCheck.git`
 
 2. If GPU is utilised make changes in safetycheck/safetycheck_config.py file and set `USE_GPU = TRUE`
 
